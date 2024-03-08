@@ -32,7 +32,7 @@ const Encryption = () => {
             className="w-[50px] translate-y-5 transition-all duration-200 group-hover:translate-y-11"
           />
           <Image
-            src="/LockMain.png"
+            src="./LockMain.png"
             alt="Lock Main"
             width={70}
             height={70}
@@ -58,7 +58,7 @@ const Encryption = () => {
           playsInline
           preload="false"
           className="w-full h-auto"
-          src="/encryption.webm/"
+          src="./encryption.webm/"
         />
       </div>
     </div>
