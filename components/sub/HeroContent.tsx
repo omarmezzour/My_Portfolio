@@ -52,7 +52,7 @@ const HeroContent = () => {
 
         </motion.p>
         <motion.a
-          href="/My_Resume.pdf"
+          href="./My_Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           variants={slideInFromLeft(1)}
@@ -67,7 +67,7 @@ const HeroContent = () => {
         className="w-full h-full flex justify-center items-center"
       >
         <Image
-          src="/mainImg.svg"
+          src="./mainImg.svg"
           alt="work icons"
           height={650}
           width={650}
