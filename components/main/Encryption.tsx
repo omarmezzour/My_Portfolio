@@ -25,7 +25,7 @@ const Encryption = () => {
       <div className="flex flex-col items-center justify-center translate-y-[-50px] absolute z-[20] w-auto h-auto">
         <div className="flex flex-col items-center group cursor-pointer w-auto h-auto">
           <Image
-            src="/LockTop.png"
+            src="./LockTop.png"
             alt="Lock top"
             width={50}
             height={50}
